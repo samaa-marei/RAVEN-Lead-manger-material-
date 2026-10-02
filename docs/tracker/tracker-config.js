@@ -3,7 +3,7 @@
 */
 window.RISE_TRACKER_CONFIG = {
   // Paste your deployed Google Apps Script Web App URL here.
-  endpoint:"https://script.google.com/macros/s/AKfycbyC1_3CeW-JOHC4XWF_r5LSwDJIQJwlDAkj5NTJmXgmdyjwaIRX8uacOj_K9Kp1zP7P/exec",
+  endpoint:"https://script.google.com/macros/s/AKfycbx5SpIlbjlF7B-k1LB_mNoCUbhbU8vO9PNj0DYuE-CGBL5Wkd5_ewnAgWiXx4nrw3Gq/exec",
 
   // Give each course its own ID.
   courseId: "lead-manager-training",
