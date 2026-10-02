@@ -422,7 +422,7 @@
           >
 
           <div id="raven-tracker-brand-name">
-            RAVEN TRAINING
+          
           </div>
 
         </div>
